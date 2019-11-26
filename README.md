@@ -10,6 +10,8 @@ Included:
 
 TODO:
 
+* Clear Ballot: a zip of a collection of CVR files in a more concise, regularized normal form.
+
 * ES&S:
 
 ```
