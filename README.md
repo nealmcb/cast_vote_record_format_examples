@@ -1,6 +1,13 @@
 # cast_vote_record_format_examples
 Collection of examples of CVR (cast vote record) examples from a variety of election system vendors
 
+Here are a few examples of CVR files, as used for election auditing.
+
+Included:
+
+* Dominion 
+* Hart
+
 TODO:
 
 * ES&S:
